@@ -12,6 +12,7 @@ body {
   position: relative;
   z-index: 1;
   background: rgb(2, 20, 39);
+  background: rgb(66, 112, 162);
   width: auto;
   min-height: 100%;
 }
